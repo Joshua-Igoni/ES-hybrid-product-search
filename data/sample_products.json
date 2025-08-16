@@ -1,0 +1,10 @@
+[
+  {"id": 1, "title": "4K Smart TV 55\"", "description": "55-inch Ultra HD television with HDR10 and Dolby Vision.", "brand": "Visionix", "category": "tv", "price": 699.99, "tags": ["4k", "hdr", "smart"]},
+  {"id": 2, "title": "Noise-Cancelling Headphones", "description": "Wireless over-ear ANC headphones with 30h battery.", "brand": "SonicPro", "category": "audio", "price": 199.90, "tags": ["bluetooth", "anc"]},
+  {"id": 3, "title": "Gaming Laptop 15\"", "description": "Ryzen 7, RTX 4060, 16GB RAM, 1TB NVMe.", "brand": "Firebook", "category": "laptop", "price": 1499.00, "tags": ["gaming", "rtx", "notebook"]},
+  {"id": 4, "title": "Mirrorless Camera", "description": "APS-C sensor, 24MP, 4K30 video, kit lens 16-50mm.", "brand": "Photon", "category": "camera", "price": 899.00, "tags": ["camera", "4k"]},
+  {"id": 5, "title": "Android Smartphone 128GB", "description": "6.5\" OLED, 5000mAh, 3 years updates.", "brand": "Nova", "category": "smartphone", "price": 399.99, "tags": ["phone", "mobile"]},
+  {"id": 6, "title": "Mechanical Keyboard TKL", "description": "Hot-swappable switches, PBT keycaps, USB-C.", "brand": "KeyWave", "category": "peripheral", "price": 119.00, "tags": ["keyboard", "mechanical"]},
+  {"id": 7, "title": "USB-C GaN Charger 65W", "description": "Dual-port PD fast charger for laptop/phone.", "brand": "Voltio", "category": "accessory", "price": 39.99, "tags": ["charger", "gan"]},
+  {"id": 8, "title": "Smartwatch Fitness", "description": "AMOLED, GPS, HRV, sleep tracking, 5ATM.", "brand": "Pulseon", "category": "wearable", "price": 149.00, "tags": ["watch", "fitness"]}
+]
